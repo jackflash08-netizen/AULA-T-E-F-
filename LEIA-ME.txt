@@ -1,0 +1,19 @@
+AULA: DEPOIS DA CRITICA (com revisao de Frankfurt, Arendt e Foucault)
+
+PUBLICAR: suba index.html e vote.html na mesma pasta do GitHub Pages (substitua os antigos).
+
+NOVO: secao "Revisao" (7 slides, botao no topo) antes da pergunta-guia:
+ A critica em tres retratos, Frankfurt (razao instrumental, industria cultural),
+ Arendt (banalidade do mal, totalitarismo e isolamento), Foucault (panoptico, biopoder).
+ Cada slide: definicao, explicacao simples, exemplo 1, exemplo 2. Fotos de Arendt, Foucault, Frankfurt, Wannsee,
+ Auschwitz e Revolta da Vacina agora tambem aparecem no projetor.
+ No slide do panoptico, clique na torre para desligar o olhar. No de totalitarismo, a rede se rompe a cada etapa.
+ No celular: so fotos, curiosidades ("Voce sabia?") e explicacoes. Sem quiz.
+
+PENDENTE: imagens de Damiens (1757), vaso de Ulisses e julgamento de Eichmann (Wikimedia bloqueou o download).
+ Pelo botao Fotos, chaves: damiens, ulisses_vaso, eichmann_julgamento, presidio_modelo.
+
+CONFIRA ANTES DA AULA (escrito de memoria): Amazon 2018 (Reuters) ferramenta de curriculos; Wannsee 20/01/1942;
+ Eichmann enforcado em 1962; Revolta da Vacina nov/1904; cursos de Foucault no Collège de France citados;
+ Instituto de Pesquisa Social fundado em 1923. Mais os itens que ja estavam no LEIA-ME anterior.
+ A foto "frankfurt_grupo1" tem marca d'agua "Beduka"; troque pelo botao Fotos se preferir.
